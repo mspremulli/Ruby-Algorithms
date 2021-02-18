@@ -7,4 +7,5 @@ def concatenateArrays(a, b)
         newArr.push(item)
     end
     return newArr
+    // or return a + b
 end
